@@ -1,0 +1,49 @@
+﻿Job Title: Junior Data Scientist
+Location: Remote
+Employment Type: Full-Time
+
+
+About the Role
+
+We are looking for a Junior Data Scientist to join our team and support data-driven decision-making. You will work with structured and unstructured data, build basic machine learning models, and generate insights that help improve business outcomes.
+
+This role is ideal for candidates with a strong foundation in data analysis, statistics, and machine learning, who are eager to grow in a practical environment.
+
+
+Key Responsibilities
+
+- Analyze datasets to extract insights using Python
+- Perform data cleaning, preprocessing, and feature engineering
+- Build and evaluate basic machine learning models
+- Apply techniques such as regression, classification, and clustering
+- Work with libraries like Pandas, NumPy, Scikit-learn
+- Visualize data using Matplotlib or Seaborn
+- Communicate findings through clear reports and dashboards
+- Collaborate with cross-functional teams on data-driven projects
+
+
+Required Skills & Qualifications
+
+- Bachelor’s degree in Data Science, Computer Science, Statistics, or related field
+- Strong knowledge of Python programming
+- Understanding of machine learning concepts
+- Familiarity with data preprocessing and exploratory data analysis (EDA)
+- Experience with SQL for data querying
+- Basic knowledge of statistics and probability
+- Good problem-solving and analytical thinking skills
+
+
+Nice to Have
+
+- Experience with TensorFlow or PyTorch
+- Knowledge of Natural Language Processing (NLP)
+- Experience deploying models using Streamlit or Flask
+- Familiarity with Git and version control
+
+What We Offer
+
+- Fully remote work environment
+- Opportunity to work on real-world data projects
+- Mentorship and growth in data science and machine learning
+
+Note: This role is intended for early-career candidates looking to build practical experience in data science.
