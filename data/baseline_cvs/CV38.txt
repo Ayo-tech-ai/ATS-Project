@@ -1,0 +1,8 @@
+﻿Name: James Adebayo
+Email: jamesadebayo@gmail.com
+Location: Lagos, Nigeria
+Education: BSc Computer Science
+Skills: Python, Machine Learning, SQL, Data Cleaning
+Experience: Junior Analyst – Startup (8 months)
+Projects: Sales Prediction Model
+Tools: Python, Scikit-learn

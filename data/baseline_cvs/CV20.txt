@@ -1,0 +1,16 @@
+﻿Name: Ayo Adeyemi
+Email: ayo.a@email.com
+
+Summary:
+Biology graduate with basic Excel. No Python or SQL.
+
+Skills: Excel, SPSS (minimal).
+
+Experience:
+
+· Lab assistant (1 year) – data entry only.
+
+Education:
+BSc Biology (2021)
+
+Projects: None in data science.

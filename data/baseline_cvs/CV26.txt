@@ -1,0 +1,9 @@
+﻿Name: Ibrahim Bello
+Email: ibrahimbello@gmail.com
+Location: Kano, Nigeria
+Education: BSc Mathematics
+Skills: Python, Statistics, Machine Learning, SQL, Data Modeling
+Experience: Data Scientist Intern – Telecom Company
+Built clustering model for customer segmentation
+Projects: Customer Segmentation using K-Means
+Tools: Python, Scikit-learn

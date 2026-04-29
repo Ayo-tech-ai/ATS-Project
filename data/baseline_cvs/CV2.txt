@@ -1,0 +1,22 @@
+﻿Name: Daniel Okafor
+Email: daniel.okafor@email.com
+
+Summary:
+Computer Science graduate with 1 year of industry experience. Proficient in Python, SQL, and ML. Built and deployed classification models in production environment.
+
+Skills: Python (Pandas, Scikit-learn, Seaborn), SQL, Git, Docker, Flask.
+
+Experience:
+
+· Junior Data Analyst → Junior Data Scientist – DataHub Ltd (1 year)
+    Automated EDA pipelines; built logistic regression for lead scoring; used SQL to query 5M-row DB; presented insights to stakeholders.
+
+Education:
+BSc Computer Science (2022) – Second Class Upper
+
+Projects:
+
+· Telecom churn prediction – Scikit-learn, achieved 82% F1.
+· Sales dashboard – Matplotlib, SQLite.
+
+Nice-to-have: Deployed model using Flask.

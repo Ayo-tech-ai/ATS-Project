@@ -1,0 +1,9 @@
+﻿
+Name: Ngozi Chukwu
+Email: ngozichukwu@gmail.com
+Location: Enugu, Nigeria
+Education: BSc Mathematics
+Skills: Python, SQL, Statistics
+Experience: None
+Projects: Basic Regression Analysis on Housing Data
+Tools: Python

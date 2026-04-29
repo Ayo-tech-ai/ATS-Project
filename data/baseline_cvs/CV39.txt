@@ -1,0 +1,8 @@
+﻿Name: Hannah Okoye
+Email: hannahokoye@gmail.com
+Location: Abuja, Nigeria
+Education: BSc Statistics
+Skills: Python, Pandas, Excel, Data Visualization
+Experience: Admin Assistant
+Projects: Simple Customer Analysis Report
+Tools: Excel, Python

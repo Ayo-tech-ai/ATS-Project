@@ -1,0 +1,9 @@
+﻿Name: Grace Mwangi
+Email: grace.mwangi@gmail.com
+Location: Nairobi, Kenya
+Education: BSc Data Science, University of Nairobi (2023)
+Skills: Python, Pandas, Machine Learning, Data Cleaning
+Experience: Intern – Health Analytics Lab
+Assisted in cleaning patient datasets
+Projects: Diabetes Prediction Model (Logistic Regression)
+Tools: Python, Scikit-learn

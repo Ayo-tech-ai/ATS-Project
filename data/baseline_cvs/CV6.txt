@@ -1,0 +1,20 @@
+﻿Name: Kelvin Mwangi
+Email: kelvin.m@email.com
+
+Summary:
+Self-taught Python with bootcamp certificate. Solid data cleaning skills but limited ML deployment experience.
+
+Skills: Python (Pandas, NumPy), SQL, basic Matplotlib.
+
+Experience:
+
+· Junior Data Analyst – SmallBiz Solutions (8 months) – SQL queries, Excel dashboards, some cleaning.
+· No model building in industry.
+
+Education:
+BSc Information Technology (2020)
+
+Projects:
+
+· Linear regression on housing data (Jupyter notebook, no deployment).
+· Data cleaning project using Pandas.

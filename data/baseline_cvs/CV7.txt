@@ -1,0 +1,20 @@
+﻿Name: Fatima Bello
+Email: fatima.b@email.com
+
+Summary:
+Computer Science graduate. Understands ML theory but limited project complexity. Passionate about data.
+
+Skills: Python (intermediate), SQL, Pandas/NumPy, Matplotlib.
+
+Experience:
+
+· No formal DS work.
+· IT Support – University (1 year) – unrelated.
+
+Education:
+BSc Computer Science (2023)
+
+Projects:
+
+· K-means clustering on mall customer data (tutorial-based).
+· Regression on Boston housing (copy of standard notebook).

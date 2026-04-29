@@ -1,0 +1,8 @@
+﻿Name: Ahmed Musa
+Email: ahmedmusa@gmail.com
+Location: Abuja, Nigeria
+Education: BSc Mathematics
+Skills: Python, Regression Analysis, Statistics
+Experience: Research Assistant (University Project)
+Projects: Housing Price Prediction Model
+Tools: Python, Scikit-learn

@@ -1,0 +1,9 @@
+﻿Name: Ruth Bello
+Email: ruthbello@gmail.com
+Location: Lagos, Nigeria
+Education: BSc Statistics
+Skills: Python, SQL, Machine Learning, Data Visualization
+Experience: Data Analyst Intern
+Built reporting dashboards
+Projects: Customer Retention Analysis
+Tools: Python, Power BI

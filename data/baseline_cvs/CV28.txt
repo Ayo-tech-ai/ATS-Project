@@ -1,0 +1,9 @@
+﻿Name: Michael Adams
+Email: michaeladams@gmail.com
+Location: Remote
+Education: MSc Artificial Intelligence
+Skills: Python, Deep Learning, NLP, Computer Vision, TensorFlow
+Experience: ML Engineer Intern – Research Lab
+Built image classification model with 92% accuracy
+Projects: Medical Image Classification System
+Tools: Python, TensorFlow, Keras, OpenCV

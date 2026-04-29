@@ -1,0 +1,15 @@
+﻿Name: John Mbeki
+Email: john.m@email.com
+
+Summary:
+Self-taught beginner in Python. No degree, no statistics.
+
+Skills: Python (lists, loops), no libraries.
+
+Experience:
+
+· Retail sales associate (4 years).
+
+Education: High school.
+
+Projects: "Calculator program" in Python.

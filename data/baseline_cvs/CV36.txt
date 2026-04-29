@@ -1,0 +1,9 @@
+﻿Name: Victor Emmanuel
+Email: victor.emmanuel@gmail.com
+Location: Remote
+Education: MSc AI
+Skills: Python, Deep Learning, NLP, Computer Vision, PyTorch
+Experience: ML Research Intern
+Developed object detection model
+Projects: Autonomous Object Detection System
+Tools: Python, PyTorch, OpenCV

@@ -1,0 +1,23 @@
+﻿Name: Aisha Kamau
+Email: aisha.kamau@email.com | GitHub: /aisha_ds
+
+Summary:
+Recent MSc graduate in Data Science with internship experience. Strong Python, SQL, and ML foundations. Built and deployed a regression model for energy forecasting.
+
+Skills: Python (Pandas, NumPy, Scikit-learn, Matplotlib), SQL, Flask, Git, basic TensorFlow.
+
+Experience:
+
+· Data Science Intern – Nexa Analytics (6 months)
+    Cleaned 10GB+ customer data; built a churn classification model (Scikit-learn, 85% recall); created dashboards.
+· Graduate Research Assistant – University of Nairobi
+    Applied NLP to social media data for sentiment analysis (basic LSTM in TensorFlow).
+
+Education:
+MSc Data Science (2023) – GPA 3.8/4.0
+BSc Statistics (2021)
+
+Projects:
+
+· Customer Segmentation (K-means) using Pandas & Seaborn.
+· Deployed house price predictor via Streamlit.

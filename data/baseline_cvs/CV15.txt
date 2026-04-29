@@ -1,0 +1,17 @@
+﻿Name: Emeka Obi
+Email: emeka.o@email.com
+
+Summary:
+Business admin graduate with basic Excel. Took one Python course online. No ML knowledge.
+
+Skills: Excel, basic Python (print, loops), no Pandas/Scikit-learn.
+
+Experience:
+
+· Customer service rep (2 years) – unrelated.
+· Data entry clerk (6 months) – manual entry.
+
+Education:
+BSc Business Administration (2019)
+
+Projects: None in ML.

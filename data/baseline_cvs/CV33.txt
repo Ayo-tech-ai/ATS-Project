@@ -1,0 +1,10 @@
+﻿Name: Esther Williams
+Email: estherwilliams@gmail.com
+Location: Remote
+Education: MSc Data Science
+Skills: Python, TensorFlow, NLP, SQL, Feature Engineering
+Experience: Data Scientist Intern – FinTech
+Built fraud detection model
+Improved recall by 20%
+Projects: Credit Card Fraud Detection
+Tools: Python, TensorFlow, Scikit-learn

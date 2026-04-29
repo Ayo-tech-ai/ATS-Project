@@ -1,0 +1,16 @@
+﻿Name: Linda Mensah
+Email: linda.m@email.com
+
+Summary:
+Liberal arts graduate with no technical background. Completed LinkedIn 'Python basics' course.
+
+Skills: Python (variables, if/else), no Pandas, no SQL.
+
+Experience:
+
+· Receptionist (2 years).
+
+Education:
+BA English (2020)
+
+Projects: None.

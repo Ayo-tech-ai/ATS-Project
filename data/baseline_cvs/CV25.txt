@@ -1,0 +1,11 @@
+﻿Name: Sarah Johnson
+Email: sarahjohnson@gmail.com
+Location: Remote
+Education: MSc Data Science (in view)
+Skills: Python, TensorFlow, Deep Learning, NLP, SQL, Feature Engineering
+Experience: Machine Learning Intern – AI Startup (1 year)
+Built NLP sentiment analysis model
+Improved model accuracy by 18%
+Projects: Fake News Detection System (NLP + LSTM)
+Tools: Python, TensorFlow, PyTorch, Scikit-learn
+Certifications: Deep Learning Specialization – Coursera

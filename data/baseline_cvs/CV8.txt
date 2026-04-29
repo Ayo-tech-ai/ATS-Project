@@ -1,0 +1,19 @@
+﻿Name: Kwame Asare
+Email: kwame.a@email.com
+
+Summary:
+Economics graduate transitioning to data science. Completed online specialization in ML.
+
+Skills: Python (Pandas, Scikit-learn), SQL, statsmodel.
+
+Experience:
+
+· Business Analyst Intern (6 months) – SQL reporting, no ML.
+
+Education:
+BSc Economics (2021) + Coursera ML specialization (Andrew Ng)
+
+Projects:
+
+· Logistic regression for bank marketing (Scikit-learn).
+· EDA on COVID-19 dataset

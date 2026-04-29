@@ -1,0 +1,20 @@
+﻿Name: Olu Akinyemi
+Email: olu.a@email.com
+
+Summary:
+Physics graduate with strong math. Learned Python and ML on own time. No formal DS experience.
+
+Skills: Python (intermediate), SQL (basic), Matplotlib.
+
+Experience:
+
+· Tutor – Physics (2 years) – unrelated.
+· Data entry (6 months).
+
+Education:
+BSc Physics (2020)
+
+Projects:
+
+· Linear regression for student scores.
+· Basic EDA on used cars dataset.

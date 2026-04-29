@@ -1,0 +1,20 @@
+﻿Name: Musa Sanyang
+Email: musa.s@email.com
+
+Summary:
+Mathematics graduate with Python self-study. Completed one ML certificate. Looking for entry-level role.
+
+Skills: Python (Pandas, basic ML), SQL (basics).
+
+Experience:
+
+· Math teacher (2 years) – unrelated.
+· Freelance data labeling (3 months).
+
+Education:
+BSc Mathematics (2021)
+
+Projects:
+
+· Classification of iris flowers (tutorial).
+· Data visualization of weather patterns.

@@ -1,0 +1,19 @@
+﻿Name: Sipho Dlamini
+Email: sipho.d@email.com
+
+Summary:
+CS graduate with basic Python. Understands ML theory but weak on practical application.
+
+Skills: Python (basic), SQL (intermediate), no major ML libraries.
+
+Experience:
+
+· Helpdesk technician (1 year) – irrelevant.
+
+Education:
+BSc Computer Science (2022)
+
+Projects:
+
+· Course project: decision tree on toy dataset – minimal effort.
+· No EDA portfolio.

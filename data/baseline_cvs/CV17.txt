@@ -1,0 +1,16 @@
+﻿Name: Rajesh Nair
+Email: rajesh.n@email.com
+
+Summary:
+Recent marketing graduate. Took one statistics course. No programming experience.
+
+Skills: SPSS, Excel, no Python.
+
+Experience:
+
+· Digital marketing intern (6 months) – data reporting in Excel.
+
+Education:
+BSc Marketing (2023)
+
+Projects: None in data science/ML.

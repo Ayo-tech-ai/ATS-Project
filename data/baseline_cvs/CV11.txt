@@ -1,0 +1,19 @@
+﻿Name: Lina Zhou
+Email: lina.zhou@email.com
+
+Summary:
+Recent grad in Data Science. Has classroom knowledge of regression and clustering but internship canceled due to COVID.
+
+Skills: Python (Pandas, Scikit-learn), SQL, basic Tableau.
+
+Experience:
+
+· Capstone project with local company (unpaid) – performed data cleaning and exploratory analysis.
+
+Education:
+BSc Data Science (2023)
+
+Projects:
+
+· Customer churn prediction (classroom project).
+· Online retail EDA

@@ -1,0 +1,15 @@
+﻿Name: Fatou Jallow
+Email: fatou.j@email.com
+
+Summary:
+High school graduate + self-taught Excel. No degree, no Python.
+
+Skills: Excel, basic SQL (SELECT only).
+
+Experience:
+
+· Administrative assistant (3 years).
+
+Education: High school diploma.
+
+Projects: None.

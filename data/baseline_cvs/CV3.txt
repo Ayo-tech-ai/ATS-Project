@@ -1,0 +1,21 @@
+﻿Name: Priya Sharma
+Email: priya.sharma@email.com
+
+Summary:
+Data Science bootcamp graduate + math degree. Strong statistical foundation. Completed 5+ real-world ML projects including regression and clustering.
+
+Skills: Python (Pandas, NumPy, Scikit-learn, Matplotlib), SQL, Git, basic PyTorch.
+
+Experience:
+
+· Freelance Data Analyst (8 months) – Built predictive models for small businesses.
+· Data Science Fellow – QuantInsight Bootcamp (3 months intensive) – Capstone: NLP for customer review classification.
+
+Education:
+BSc Applied Mathematics (2021)
+
+Projects:
+
+· House price regression (feature engineering, Ridge/Lasso).
+· Customer clustering (k-means, PCA visualization).
+· Spam classifier using Naive Bayes.

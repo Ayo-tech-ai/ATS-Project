@@ -1,0 +1,9 @@
+﻿Name: Fatima Aliyu
+Email: fatimaaliyu@gmail.com
+Location: Kaduna, Nigeria
+Education: BSc Statistics
+Skills: Python, SQL, Data Cleaning, Visualization
+Experience: Data Analyst Intern
+Generated weekly business insights reports
+Projects: E-commerce Sales Dashboard
+Tools: Python, Power BI

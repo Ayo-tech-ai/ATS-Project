@@ -1,0 +1,9 @@
+﻿Name: Blessing Ojo
+Email: blessingojo@gmail.com
+Location: Lagos, Nigeria
+Education: BSc Statistics
+Skills: Python, SQL, EDA, Data Visualization
+Experience: Intern – Insurance Company
+Data cleaning and reporting
+Projects: Risk Analysis Dashboard
+Tools: Python, Tableau

@@ -1,0 +1,22 @@
+﻿Name: Tunde Bakare
+Email: tunde.b@email.com
+
+Summary:
+MSc in Analytics with 6 months internship + academic projects. Fluent in Python, SQL, and Scikit-learn. Experience with time series forecasting.
+
+Skills: Python (Pandas, Scikit-learn, Statsmodels), SQL, Git, Streamlit.
+
+Experience:
+
+· Data Science Intern – FinEdge (6 months)
+    Built credit risk classification model; created EDA reports; used SQL for loan data extraction & cleaning.
+
+Education:
+MSc Business Analytics (2023)
+BSc Economics (2020)
+
+Projects:
+
+· Stock price forecasting (ARIMA, regression).
+· Fraud detection (Random Forest, SMOTE).
+· Deployed classifier using Streamlit

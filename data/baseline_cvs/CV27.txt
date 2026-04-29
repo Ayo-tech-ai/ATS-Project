@@ -1,0 +1,8 @@
+﻿Name: Linda Okafor
+Email: lindaokafor@gmail.com
+Location: Lagos, Nigeria
+Education: BSc Computer Science
+Skills: Python, Pandas, Excel, Basic SQL
+Experience: Office Assistant (Non-tech)
+Projects: Basic EDA on COVID-19 dataset
+Tools: Python, Excel

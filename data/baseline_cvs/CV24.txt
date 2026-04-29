@@ -1,0 +1,8 @@
+﻿Name: Chinedu Eze
+Email: chinedueze@gmail.com
+Location: Enugu, Nigeria
+Education: BSc Statistics
+Skills: Python, SQL, Data Visualization, Statistics
+Experience: None
+Projects: Titanic Survival Analysis (Kaggle)
+Tools: Python, Matplotlib

@@ -1,0 +1,8 @@
+﻿Name: David Nwankwo
+Email: davidnwankwo@gmail.com
+Location: Onitsha, Nigeria
+Education: BSc Computer Science
+Skills: Python, Pandas, Basic SQL
+Experience: None
+Projects: Simple EDA on Titanic dataset
+Tools: Python

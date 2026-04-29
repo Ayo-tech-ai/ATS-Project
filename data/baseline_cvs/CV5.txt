@@ -1,0 +1,20 @@
+﻿Name: Grace Wanjiku
+Email: grace.wanjiku@email.com
+
+Summary:
+Statistics graduate with Python and SQL knowledge. Completed academic ML projects. Seeking first full-time data science role.
+
+Skills: Python (basic Pandas, Scikit-learn), SQL, Tableau.
+
+Experience:
+
+· Data Entry Intern – RetailCorp (3 months) – minimal data cleaning.
+· Volunteer Data Analyst – NGO (4 months) – basic Excel charts.
+
+Education:
+BSc Statistics (2022)
+
+Projects:
+
+· Titanic survival classification (Logistic Regression, 78% accuracy).
+· Exploratory analysis of Iris dataset using Matplotlib

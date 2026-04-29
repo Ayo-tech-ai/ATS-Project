@@ -1,0 +1,9 @@
+﻿Name: Samuel Adeyemi
+Email: samueladeyemi@gmail.com
+Location: Lagos, Nigeria
+Education: BSc Computer Science
+Skills: Python, SQL, Machine Learning, Feature Engineering
+Experience: Data Science Intern – EdTech Startup
+Built recommendation system prototype
+Projects: Course Recommendation Engine
+Tools: Python, Scikit-learn

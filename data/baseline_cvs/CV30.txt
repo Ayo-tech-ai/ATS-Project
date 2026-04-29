@@ -1,0 +1,8 @@
+﻿Name: John Peters
+Email: johnpeters@gmail.com
+Location: Port Harcourt, Nigeria
+Education: BSc Computer Science
+Skills: Python, Machine Learning, Pandas, NumPy
+Experience: None
+Projects: Movie Recommendation System (basic collaborative filtering)
+Tools: Python

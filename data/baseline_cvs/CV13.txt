@@ -1,0 +1,19 @@
+﻿Name: Chiamaka Nwosu
+Email: chiamaka.n@email.com
+
+Summary:
+Industrial Engineering grad with Python and SQL. Interested in ML but limited model-building portfolio.
+
+Skills: Python (Pandas, NumPy), SQL, Excel.
+
+Experience:
+
+· Operations Analyst (1 year) – data reporting, some SQL, no ML.
+
+Education:
+BSc Industrial Engineering (2021)
+
+Projects:
+
+· Simple linear regression on inventory data.
+· Basic clustering (tutorial-based).

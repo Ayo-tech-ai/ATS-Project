@@ -1,0 +1,11 @@
+﻿Name: Daniel Okoro
+Email: danielokoro@yahoo.com
+Location: Abuja, Nigeria
+Education: BSc Computer Science, Baze University (2022)
+Skills: Python, SQL, EDA, Scikit-learn, Regression Models
+Experience: Junior Data Analyst – Retail Company (1 year)
+Analyzed sales performance data
+Created weekly performance reports
+Projects: Sales Forecasting Model using Linear Regression
+Tools: Python, Excel, Tableau
+Certifications: IBM Data Science Fundamentals

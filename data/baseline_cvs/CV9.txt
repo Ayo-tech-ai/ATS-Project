@@ -1,0 +1,20 @@
+﻿Name: Zara Khan
+Email: zara.k@email.com
+
+Summary:
+Data Science bootcamp graduate. Built several models but lacks version control or deployment exposure.
+
+Skills: Python (Pandas, NumPy, Scikit-learn, Seaborn), SQL.
+
+Experience:
+
+· Freelance Data Cleaner – Upwork (5 months) – data preprocessing only.
+
+Education:
+BSc Business Information Systems (2022)
+
+Projects:
+
+· Classification of breast cancer (SVM, 92% accuracy).
+· Clustering on social network data.
+· No Git, no deployment.

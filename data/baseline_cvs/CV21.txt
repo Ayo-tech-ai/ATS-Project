@@ -1,0 +1,11 @@
+﻿Name: Amina Yusuf
+Email: aminayusuf@gmail.com
+Location: Lagos, Nigeria
+Education: BSc Statistics, University of Lagos (2023)
+Skills: Python, Pandas, NumPy, SQL, Machine Learning, Data Visualization
+Experience: Data Analyst Intern – FinTech Startup (6 months)
+Built dashboards for transaction analysis
+Performed data cleaning on financial datasets
+Projects: Customer Churn Prediction Model using Scikit-learn
+Tools: Python, Jupyter, Power BI
+Certifications: Google Data Analytics Certificate
