@@ -244,7 +244,7 @@ def style_results_table(df: pd.DataFrame):
 
     return (
         display_df.style
-        .applymap(match_style, subset=["Match Level"])
+        .map(match_style, subset=["Match Level"])
         .set_properties(subset=["Explanation"], **{"white-space": "normal"})
     )
 
