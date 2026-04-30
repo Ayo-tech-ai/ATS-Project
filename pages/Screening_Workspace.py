@@ -42,8 +42,6 @@ def main():
         ]
     )
 
-    st.page_link("streamlit_app.py", label="Back to Home Dashboard", icon="←")
-
     st.markdown("<div style='margin-top: 1rem;'></div>", unsafe_allow_html=True)
 
     mode = st.radio(
