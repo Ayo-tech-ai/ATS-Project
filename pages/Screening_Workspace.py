@@ -22,9 +22,22 @@ st.set_page_config(
 )
 
 
+def render_home_button():
+    st.markdown(
+        """
+        <div class="top-nav-wrap">
+            <a class="top-nav-link" href="/" target="_self">Home</a>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+
 def main():
     inject_custom_css()
     model = load_model()
+
+    render_home_button()
 
     render_brand_header(
         title="TalentMatch",
