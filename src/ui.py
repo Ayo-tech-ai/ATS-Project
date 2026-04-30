@@ -36,10 +36,11 @@ def inject_custom_css():
             }
 
             .hero-title {
-                font-size: 2.35rem;
-                font-weight: 800;
+                font-size: 3.05rem;
+                font-weight: 900;
                 margin-bottom: 0.35rem;
                 letter-spacing: 0;
+                line-height: 1.05;
             }
 
             .hero-subtitle {
@@ -242,6 +243,31 @@ def inject_custom_css():
                 margin-bottom: 0.8rem;
             }
 
+            .top-nav-wrap {
+                display: flex;
+                justify-content: flex-start;
+                margin-bottom: 1rem;
+            }
+
+            .top-nav-link {
+                display: inline-block;
+                background-color: #ffffff;
+                color: #0F766E !important;
+                text-decoration: none;
+                font-weight: 700;
+                font-size: 0.92rem;
+                padding: 0.7rem 1rem;
+                border-radius: 10px;
+                border: 1px solid #cfe2df;
+                transition: all 0.2s ease;
+            }
+
+            .top-nav-link:hover {
+                background-color: #f0fbf9;
+                border-color: #0F766E;
+                color: #0b5f59 !important;
+            }
+
             div[data-testid="stMetric"] {
                 background: #ffffff;
                 border: 1px solid #e6ebf2;
@@ -257,6 +283,39 @@ def inject_custom_css():
             div[data-testid="stMetricValue"] {
                 color: #111827;
                 font-weight: 700;
+            }
+
+            div[data-testid="stRadio"] {
+                display: flex;
+                justify-content: center;
+                margin-top: 0.5rem;
+                margin-bottom: 1rem;
+            }
+
+            div[data-testid="stRadio"] > div {
+                width: 100%;
+            }
+
+            div[data-testid="stRadio"] [role="radiogroup"] {
+                display: flex;
+                justify-content: center;
+                gap: 1rem;
+                flex-wrap: wrap;
+            }
+
+            div[data-testid="stRadio"] label {
+                background: #ffffff;
+                border: 1px solid #dbe5f0;
+                border-radius: 999px;
+                padding: 0.55rem 1rem;
+            }
+
+            div[data-testid="stRadio"] label p {
+                font-size: 1.15rem !important;
+                font-weight: 700 !important;
+                color: #111827 !important;
+                margin: 0 !important;
+                text-align: center !important;
             }
         </style>
         """,
@@ -429,7 +488,7 @@ def render_home_cta():
         <div class="cta-panel">
             <div class="cta-title">Ready to review new applicants?</div>
             <div class="cta-text">
-                Move into the dedicated screening workspace to evaluate a single candidate or screen a new batch of CVs.
+                Open the Screening Workspace from the home page action button to evaluate a single candidate or screen a new batch of CVs.
             </div>
         </div>
         """,
@@ -533,47 +592,4 @@ def render_single_candidate_view(single_result, baseline_count):
         </div>
         """,
         unsafe_allow_html=True,
-    )
-
-    render_table_and_download(
-        single_result,
-        file_name="single_inference_result.csv",
-        button_label="Download Single Candidate CSV",
-        section_title="Single Candidate Result",
-        section_caption="Final ATS output for the uploaded candidate, including score, match level, baseline rank, and explanation.",
-    )
-
-
-def render_batch_summary(batch_result):
-    top_candidate = batch_result.iloc[0]
-    skills = extract_skill_tags(top_candidate["Explanation"])
-
-    st.markdown(
-        """
-        <div class="section-card">
-            <div class="section-title">Top Candidate in Current Batch</div>
-            <div class="section-caption">Highest-ranked applicant from the uploaded set.</div>
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
-
-    st.markdown(
-        f"""
-        <div class="candidate-card">
-            <div class="candidate-topline">
-                <div class="candidate-name">{top_candidate["Candidate Name"]}</div>
-                <div>{get_match_badge(top_candidate["Match Level"])}</div>
-            </div>
-            <div class="candidate-meta">
-                Score: <strong>{top_candidate["Score"]:.3f}</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
-                Rank in Batch: <strong>{int(top_candidate["Rank"])}</strong>
-            </div>
-            <div class="candidate-explanation">{top_candidate["Explanation"]}</div>
-            <div class="skill-wrap">
-                {"".join([f'<span class="skill-pill">{skill}</span>' for skill in skills])}
-            </div>
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
+   
