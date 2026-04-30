@@ -592,4 +592,47 @@ def render_single_candidate_view(single_result, baseline_count):
         </div>
         """,
         unsafe_allow_html=True,
-   
+    )
+
+    render_table_and_download(
+        single_result,
+        file_name="single_inference_result.csv",
+        button_label="Download Single Candidate CSV",
+        section_title="Single Candidate Result",
+        section_caption="Final ATS output for the uploaded candidate, including score, match level, baseline rank, and explanation.",
+    )
+
+
+def render_batch_summary(batch_result):
+    top_candidate = batch_result.iloc[0]
+    skills = extract_skill_tags(top_candidate["Explanation"])
+
+    st.markdown(
+        """
+        <div class="section-card">
+            <div class="section-title">Top Candidate in Current Batch</div>
+            <div class="section-caption">Highest-ranked applicant from the uploaded set.</div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+    st.markdown(
+        f"""
+        <div class="candidate-card">
+            <div class="candidate-topline">
+                <div class="candidate-name">{top_candidate["Candidate Name"]}</div>
+                <div>{get_match_badge(top_candidate["Match Level"])}</div>
+            </div>
+            <div class="candidate-meta">
+                Score: <strong>{top_candidate["Score"]:.3f}</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
+                Rank in Batch: <strong>{int(top_candidate["Rank"])}</strong>
+            </div>
+            <div class="candidate-explanation">{top_candidate["Explanation"]}</div>
+            <div class="skill-wrap">
+                {"".join([f'<span class="skill-pill">{skill}</span>' for skill in skills])}
+            </div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
