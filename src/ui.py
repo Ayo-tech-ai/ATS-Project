@@ -435,12 +435,6 @@ def render_home_cta():
         """,
         unsafe_allow_html=True,
     )
-    st.page_link(
-        "pages/1_Screening_Workspace.py",
-        label="Open Screening Workspace",
-        icon="📂",
-        use_container_width=True,
-    )
 
 
 def render_workflow_steps():
